@@ -1,0 +1,3475 @@
+Team;String;SCD;Concatenation;Outcome;Game
+Spurs;First Action;Screen;Sem Conc.;TO;S1
+Spurs;First Action;1on1;Sem Conc.;Finalization correct;S1
+Miami;First Action;Spotup;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Finalization foul;S1
+Miami;First Action;Spotup;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;S1
+Spurs;Continuation;Pick;Conc. Indep.;TO;S1
+Spurs;First Action;Cut;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Post;Conc. Indep.;TO;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;S1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;S1
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;1on1;Conc. Indep.;Foul;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Miami;Continuation;Pick;Scr.E.Pk;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;TO;S1
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;TO;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Miami;First Action;Spotup;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Dime in;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Cut;Conc. Indep.;TO;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Re-Screen;TO;S1
+Spurs;First Action;Screen;Sem Conc.;Finalization wrong;S1
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;S1
+Spurs;Continuation;Cut;Conc. Indep.;Finalization correct;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Pick;Scr.E.Pk;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Finalization foul;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;S1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Miami;First Action;None;Sem Conc.;TO;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Miami;First Action;Spotup;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Spurs;Continuation;Spotup;Conc. Indep.;TO;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;TO;S1
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;S1
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Miami;Continuation;Pick;Conc. Indep.;Foul;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Spurs;Continuation;Screen;Stg.Scr;Finalization correct;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Pick;Re-Pk;Finalization wrong;S1
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;TO;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Pick;Pk_Scr.Rc;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Pick;Conc. Indep.;Foul;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Spurs;First Action;Post;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Screen;Scr_Scrner;Cont outra SCD;S1
+Miami;Continuation;Pick;Scr.E.Pk_SamePl;Finalization wrong;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;TO;S1
+Spurs;First Action;Pick;Sem Conc.;TO;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;1on1;Conc. Indep.;Finalization foul;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Spurs;First Action;Post;Sem Conc.;Finalization correct;S1
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Spurs;First Action;Screen;Sem Conc.;Finalization correct;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Dime in;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;TO;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;S1
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;S1
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Pick;Conc. Indep.;TO;S1
+Miami;First Action;Pick;Sem Conc.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;1on1;Conc. Indep.;Finalization foul;S1
+Spurs;First Action;Screen;Sem Conc.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;S1
+Spurs;First Action;Post;Sem Conc.;Foul;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;TO;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Post;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;1on1;Sem Conc.;Finalization foul;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Finalization correct;S1
+Miami;First Action;1on1;Sem Conc.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;TO;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;S1
+Spurs;Continuation;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Miami;First Action;1on1;Sem Conc.;TO;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;S1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Spurs;Continuation;Post;Conc. Indep.;Foul;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;S1
+Miami;Continuation;Pick;Scr.E.Pk;Finalization wrong;S1
+Spurs;First Action;Spotup;Sem Conc.;TO;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Stg.Scr;TO;S1
+Spurs;First Action;Post;Sem Conc.;Finalization foul;S1
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Spurs;First Action;None;Sem Conc.;Foul;S1
+Miami;First Action;Cut;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Dime in;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization foul;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Screen;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Spurs;Continuation;Post;Conc. Indep.;Foul;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;S1
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Cut;Conc. Indep.;Finalization foul;S1
+Spurs;First Action;Hdoff;Sem Conc.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Dime in;Conc. Indep.;TO;S1
+Spurs;First Action;Post;Sem Conc.;Foul;S1
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;TO;S1
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Cut;Conc. Indep.;TO;S1
+Miami;First Action;Hdoff;Sem Conc.;Finalization foul;S1
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Cut;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Post;Sem Conc.;Finalization correct;S1
+Spurs;Continuation;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Conc. Indep.;TO;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Finalization foul;S1
+Spurs;First Action;None;Sem Conc.;TO;S1
+Spurs;First Action;1on1;Sem Conc.;Foul;S1
+Spurs;First Action;Post;Sem Conc.;Foul;S1
+Spurs;First Action;Post;Sem Conc.;Foul;S1
+Spurs;Continuation;Cut;Conc. Indep.;Foul;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Pick;Stg.Pk;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Finalization wrong;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;S1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Post;Conc. Indep.;Finalization wrong;S1
+Miami;Continuation;Pick;Sem Conc.;Finalization foul;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Pick;Hdoff.E.Re-Pk;Finalization wrong;S1
+Spurs;First Action;Post;Sem Conc.;Finalization foul;S1
+Miami;First Action;Screen;Sem Conc.;TO;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Pick;Pk_Scr.Rc;Cont outra SCD;S1
+Spurs;Continuation;Dime in;Conc. Indep.;TO;S1
+Spurs;First Action;Cut;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;S1
+Spurs;First Action;Pick;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Dime in;Conc. Indep.;TO;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Pick;Stg.Pk;Finalization wrong;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Post;Conc. Indep.;Foul;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;S1
+Spurs;Continuation;Screen;Scr_Scrner;TO;S1
+Spurs;First Action;Screen;Sem Conc.;Finalization wrong;S1
+Spurs;First Action;Pick;Sem Conc.;Finalization correct;S1
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;None;Sem Conc.;Foul;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Pick;Scr.E.Pk_SamePl;Foul;S1
+Spurs;First Action;Cut;Sem Conc.;Foul;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;TO;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Pick;Scr.E.Pk_SamePl;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;First Action;Screen;Stg.Scr;Cont outra SCD;S1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;TO;S1
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;S1
+Spurs;First Action;Pick;Sem Conc.;TO;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Screen;Scr_Scrner;TO;S1
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;S1
+Spurs;First Action;Post;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;TO;S1
+Spurs;First Action;Screen;Sem Conc.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;S1
+Spurs;First Action;Post;Sem Conc.;Finalization foul;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Pick;Re-Pk;Cont outra SCD;S1
+Miami;Continuation;Pick;Stg.Pk;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Post;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Cut;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;S1
+Miami;First Action;Cut;Sem Conc.;Foul;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S1
+Miami;Continuation;Screen;Conc. Indep.;TO;S1
+Spurs;First Action;Post;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Hdoff;Rc.Scr.E.Mk.Hdof;Cont outra SCD;S1
+Miami;Continuation;Pick;Pk_Hdof.Rc;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Finalization wrong;S1
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;TO;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Stg.Scr;Foul;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;TO;S1
+Spurs;First Action;Post;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Miami;First Action;1on1;Sem Conc.;Finalization correct;S1
+Spurs;First Action;Screen;Sem Conc.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;TO;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Post;Sem Conc.;Finalization wrong;S1
+Spurs;First Action;Post;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Cut;Conc. Indep.;Finalization correct;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;S1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Screen;Conc. Indep.;TO;S1
+Spurs;First Action;Post;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Post;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Pick;Stg.Pk;Cont outra SCD;S1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Post;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Post;Sem Conc.;Finalization wrong;S1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Pick;Re-Pk;Finalization wrong;S1
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;S1
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S1
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;S1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S1
+Spurs;First Action;Pick;Sem Conc.;Foul;S1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;1on1;Sem Conc.;Finalization correct;S1
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;S2
+Miami;Continuation;Post;Pk_Scr.Rc;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;TO;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;TO;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S2
+Miami;First Action;Cut;Sem Conc.;Finalization wrong;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Screen;Stg.Scr;Finalization correct;S2
+Spurs;First Action;Pick;Sem Conc.;Finalization correct;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Finalization correct;S2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Stg.Pk;Finalization foul;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Post;Conc. Indep.;Foul;S2
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;S2
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Deflected;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S2
+Miami;First Action;None;Sem Conc.;TO;S2
+Spurs;First Action;Cut;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S2
+Spurs;First Action;Pick;Sem Conc.;Finalization correct;S2
+Miami;First Action;Post;Sem Conc.;Finalization correct;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Pick;Stg.Pk;Finalization correct;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;S2
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization foul;S2
+Miami;First Action;Screen;Sem Conc.;Finalization correct;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;S2
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Finalization correct;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Conc. Indep.;TO;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Pick;Pk_Hdof.Rc;Cont outra SCD;S2
+Miami;Continuation;1on1;Conc. Indep.;Finalization foul;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;TO;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Pick;Stg.Scr;Cont outra SCD;S2
+Miami;Continuation;Pick;Scr.E.Pk;Cont outra SCD;S2
+Miami;Continuation;Pick;Conc. Indep.;TO;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S2
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Cut;Conc. Indep.;Finalization correct;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S2
+Miami;First Action;Post;Sem Conc.;TO;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;S2
+Spurs;Continuation;Pick;Pk_Hdof.Rc;Cont outra SCD;S2
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;S2
+Miami;First Action;Post;Sem Conc.;Finalization foul;S2
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;S2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Post;Conc. Indep.;Finalization wrong;S2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Cut;Conc. Indep.;Finalization correct;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;S2
+Miami;Continuation;Screen;Scr_Pker;Finalization correct;S2
+Spurs;First Action;1on1;Sem Conc.;Finalization correct;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;S2
+Miami;Continuation;Pick;Stg.Pk;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization foul;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;S2
+Spurs;Continuation;Screen;Stg.Scr;Finalization correct;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Stg.Pk;Finalization wrong;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Screen;Scr_Scrner;Cont outra SCD;S2
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Pick;Stg.Pk;Finalization wrong;S2
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S2
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;S2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Cut;Conc. Indep.;TO;S2
+Miami;First Action;Hdoff;Sem Conc.;TO;S2
+Miami;First Action;Post;Sem Conc.;Finalization wrong;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization correct;S2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Post;Conc. Indep.;Finalization correct;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization foul;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Dime in;Conc. Indep.;TO;S2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;S2
+Miami;Continuation;Pick;Scr.E.Pk;Finalization wrong;S2
+Spurs;First Action;Cut;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S2
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;S2
+Miami;First Action;None;Sem Conc.;Foul;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Stg.Pk;Cont outra SCD;S2
+Spurs;Continuation;Cut;Conc. Indep.;Finalization wrong;S2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;S2
+Miami;Continuation;Screen;Scr_Pker;Foul;S2
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;S2
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization foul;S2
+Miami;First Action;Cut;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Cut;Conc. Indep.;Finalization correct;S2
+Spurs;First Action;Cut;Sem Conc.;Cont outra SCD;S2
+Spurs;First Action;Pick;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S2
+Miami;First Action;Post;Sem Conc.;Finalization wrong;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Finalization correct;S2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;1on1;Conc. Indep.;Finalization foul;S2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;1on1;Conc. Indep.;TO;S2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Stg.Pk;Finalization wrong;S2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S2
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Dime in;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S2
+Miami;First Action;Pick;Sem Conc.;Finalization correct;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;S2
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Screen;Conc. Indep.;Finalization wrong;S2
+Miami;First Action;Pick;Sem Conc.;Finalization correct;S2
+Spurs;First Action;Cut;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;1on1;Conc. Indep.;Foul;S2
+Spurs;First Action;Pick;Sem Conc.;TO;S2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Post;Conc. Indep.;Finalization correct;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization correct;S2
+Miami;First Action;Cut;Sem Conc.;Finalization wrong;S2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Post;Conc. Indep.;Deflected;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;S2
+Spurs;Continuation;Pick;Conc. Indep.;Foul;S2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Cut;Conc. Indep.;Finalization correct;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S2
+Miami;First Action;1on1;Sem Conc.;TO;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;TO;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Post;Conc. Indep.;Finalization wrong;S2
+Spurs;First Action;None;Sem Conc.;Foul;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Screen;Scr_Scrner;Cont outra SCD;S2
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;1on1;Conc. Indep.;Foul;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S2
+Miami;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;S2
+Miami;Continuation;Pick;Rc.Scr.E.Pk;TO;S2
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Re-Pk;Finalization wrong;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Post;Conc. Indep.;Finalization wrong;S2
+Spurs;First Action;Post;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;S2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S2
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Screen;Conc. Indep.;Finalization correct;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;S2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Dime in;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;Cut;Conc. Indep.;Finalization correct;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S2
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;S2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S2
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S2
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S2
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;S2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;S3
+Miami;Continuation;Pick;Stg.Pk;Finalization wrong;S3
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Foul;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Screen;Stg.Scr;Finalization wrong;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Post;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Miami;First Action;1on1;Sem Conc.;TO;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Stg.Scr;Finalization correct;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Spurs;Continuation;Screen;Stg.Scr;Finalization correct;S3
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;S3
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Post;Conc. Indep.;Finalization wrong;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Rc.Scr.E.Mk.Hdof;Cont outra SCD;S3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization foul;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization foul;S3
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization wrong;S3
+Spurs;First Action;Spotup;Sem Conc.;Finalization correct;S3
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Post;Conc. Indep.;TO;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;S3
+Miami;Continuation;Pick;Stg.Pk;Finalization wrong;S3
+Miami;First Action;Cut;Sem Conc.;Finalization correct;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;Finalization correct;S3
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;First Action;Pick;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Dime in;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;TO;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Cut;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Stg.Pk;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Finalization wrong;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;1on1;Conc. Indep.;TO;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;S3
+Spurs;Continuation;Pick;Stg.Pk;Cont outra SCD;S3
+Spurs;Continuation;1on1;Conc. Indep.;Finalization foul;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Stg.Pk;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Pick;Stg.Pk;Cont outra SCD;S3
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;TO;S3
+Spurs;First Action;Pick;Sem Conc.;Finalization correct;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Finalization wrong;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Finalization wrong;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Cut;Conc. Indep.;TO;S3
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Pk_Scr.Rc;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Dime in;Conc. Indep.;Finalization foul;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Cut;Conc. Indep.;Finalization foul;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;S3
+Spurs;Continuation;Pick;Re-Pk;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;TO;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;Pick;Sem Conc.;TO;S3
+Spurs;First Action;Pick;Sem Conc.;Finalization correct;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Finalization foul;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Dime in;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Scr_Pker;Finalization wrong;S3
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization foul;S3
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;TO;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Scr_Pker;Finalization correct;S3
+Spurs;First Action;1on1;Sem Conc.;Finalization correct;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;S3
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;S3
+Spurs;First Action;Spotup;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Foul;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Conc. Indep.;Finalization foul;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Pick;Sem Conc.;Finalization correct;S3
+Miami;First Action;1on1;Sem Conc.;Finalization correct;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;S3
+Spurs;Continuation;Pick;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Pk_Hdof.Rc;Cont outra SCD;S3
+Miami;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;S3
+Spurs;Continuation;Screen;Stg.Scr;TO;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;S3
+Spurs;Continuation;Post;Conc. Indep.;Finalization foul;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;S3
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;TO;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Miami;Continuation;Screen;Scr_Scrner;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;TO;S3
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;S3
+Spurs;First Action;Pick;Sem Conc.;TO;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;TO;S3
+Spurs;First Action;Screen;Sem Conc.;Foul;S3
+Miami;First Action;Hdoff;Sem Conc.;TO;S3
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;TO;S3
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Scr_Hdof.Mk;Cont outra SCD;S3
+Spurs;Continuation;Pick;Pk_Hdof.Rc;Cont outra SCD;S3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;S3
+Spurs;Continuation;None;Sem Conc.;Foul;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;S3
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Post;Conc. Indep.;Finalization wrong;S3
+Spurs;First Action;Post;Sem Conc.;TO;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;1on1;Conc. Indep.;Foul;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;S3
+Spurs;Continuation;Screen;Seq.Scr.Mk;TO;S3
+Spurs;Continuation;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;S3
+Spurs;First Action;Post;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;Pick;Sem Conc.;Finalization correct;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;S3
+Spurs;Continuation;Post;Conc. Indep.;TO;S3
+Miami;First Action;Pick;Sem Conc.;Finalization correct;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Re-Screen;Foul;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Post;Sem Conc.;Finalization wrong;S3
+Miami;First Action;Pick;Sem Conc.;TO;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;S3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;TO;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;1on1;Sem Conc.;Finalization correct;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Cut;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Pick;Sem Conc.;TO;S3
+Miami;Continuation;Pick;Sem Conc.;Finalization wrong;S3
+Spurs;First Action;1on1;Sem Conc.;Finalization wrong;S3
+Miami;First Action;Pick;Sem Conc.;Finalization correct;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Spurs;First Action;Screen;Sem Conc.;TO;S3
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Pk_Scr.Rc;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Dime in;Conc. Indep.;Finalization correct;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Pick;Stg.Pk;Finalization wrong;S3
+Miami;First Action;Post;Sem Conc.;TO;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization foul;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Miami;Continuation;Screen;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Miami;Continuation;Screen;Conc. Indep.;Foul;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Miami;Continuation;Screen;Stg.Scr;Finalization correct;S3
+Spurs;First Action;Screen;Sem Conc.;Finalization wrong;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Re-Pk;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;S3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Miami;Continuation;Cut;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Spurs;First Action;Screen;Sem Conc.;Finalization wrong;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;S3
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;TO;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;TO;S3
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Hdoff;Conc. Indep.;Finalization wrong;S3
+Spurs;Continuation;Post;Conc. Indep.;TO;S3
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Cut;Conc. Indep.;TO;S3
+Spurs;First Action;1on1;Sem Conc.;Finalization foul;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Scr_Pker;Finalization correct;S3
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;1on1;Conc. Indep.;TO;S3
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Conc. Indep.;TO;S3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Cut;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;S3
+Miami;Continuation;Post;Conc. Indep.;TO;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;TO;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Stg.Scr;TO;S3
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization foul;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;TO;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Screen;Stg.Scr;TO;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Pk_Scr.Rc;Finalization wrong;S3
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;S3
+Spurs;First Action;1on1;Sem Conc.;TO;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Stg.Scr;TO;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;S3
+Miami;First Action;Post;Sem Conc.;Finalization wrong;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Scr.E.Pk;Finalization correct;S3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Re-Pk;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Miami;Continuation;Cut;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Stg.Pk;Cont outra SCD;S3
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Pick;Rc.Scr.E.Pk;TO;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;1on1;Conc. Indep.;TO;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;S3
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization wrong;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Pk_Scr.Rc;TO;S3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Pk_Scr.Rc;Cont outra SCD;S3
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;S3
+Spurs;Continuation;Screen;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Pick;Pk_Scr.Rc;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;S3
+Miami;Continuation;Screen;Scr_Scrner;Finalization wrong;S3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;S3
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;S3
+Spurs;Continuation;Cut;Conc. Indep.;Finalization correct;S3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Stg.Pk;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P1
+Spurs;Continuation;Pick;Stg.Pk;Cont outra SCD;P1
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization foul;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Pick;Stg.Pk;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Scr_Scrner;TO;P1
+Spurs;First Action;Post;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;TO;P1
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Finalization wrong;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P1
+Spurs;Continuation;Screen;Stg.Scr;TO;P1
+Miami;First Action;Cut;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Post;Conc. Indep.;Finalization correct;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;P1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P1
+Miami;Continuation;Post;Conc. Indep.;TO;P1
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Re-Pk;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Scr_Hdof.Mk;Cont outra SCD;P1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P1
+Miami;Continuation;Post;Conc. Indep.;TO;P1
+Spurs;First Action;1on1;Sem Conc.;Finalization correct;P1
+Miami;First Action;Screen;Sem Conc.;Finalization wrong;P1
+Miami;First Action;Pick;Sem Conc.;TO;P1
+Spurs;Continuation;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Foul;P1
+Spurs;Continuation;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Hdoff;Rc.Scr.E.Mk.Hdof;Cont outra SCD;P1
+Miami;Continuation;Pick;Pk_Scr.Rc;Finalization correct;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Spurs;Continuation;Post;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Screen;Sem Conc.;TO;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;1on1;Sem Conc.;Finalization foul;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Dime in;Conc. Indep.;TO;P1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P1
+Spurs;First Action;Pick;Sem Conc.;Finalization correct;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;TO;P1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P1
+Spurs;First Action;Hdoff;Sem Conc.;Finalization wrong;P1
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;P1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Post;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P1
+Miami;Continuation;Pick;Stg.Pk;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Stg.Scr;Finalization correct;P1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Scr.E.Pk;Cont outra SCD;P1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Cut;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Pick;Sem Conc.;Finalization foul;P1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization foul;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P1
+Spurs;Continuation;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;TO;P1
+Spurs;First Action;None;Sem Conc.;TO;P1
+Miami;First Action;Spotup;Sem Conc.;Finalization correct;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Scr.E.Pk_SamePl;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P1
+Miami;First Action;Screen;Sem Conc.;Finalization foul;P1
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;P1
+Spurs;First Action;Pick;Sem Conc.;TO;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P1
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P1
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Foul;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Hdoff;Rc.Scr.E.Mk.Hdof;Finalization wrong;P1
+Miami;First Action;Screen;Sem Conc.;Finalization correct;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization foul;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Miami;Continuation;Post;Conc. Indep.;TO;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Scr_Scrner;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Deflected;P1
+Miami;First Action;Screen;Sem Conc.;Finalization wrong;P1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization correct;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P1
+Miami;Continuation;Screen;Stg.Pk;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P1
+Spurs;First Action;Screen;Sem Conc.;Finalization correct;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Rc.Scr.E.MkOne;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P1
+Spurs;First Action;1on1;Sem Conc.;Finalization foul;P1
+Miami;First Action;1on1;Sem Conc.;Finalization foul;P1
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Scr_Hdof.Mk;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P1
+Miami;First Action;Spotup;Sem Conc.;Finalization wrong;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P1
+Spurs;First Action;Post;Sem Conc.;Finalization correct;P1
+Spurs;First Action;1on1;Sem Conc.;Finalization correct;P1
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P1
+Spurs;First Action;Pick;Sem Conc.;TO;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Stg.Scr;Finalization wrong;P1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Pick;Sem Conc.;Foul;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Pick;Re-Pk;TO;P1
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;P1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Post;Conc. Indep.;Foul;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P1
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;P1
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;TO;P1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Finalization wrong;P1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Spotup;Sem Conc.;Finalization wrong;P1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;1on1;Sem Conc.;Foul;P1
+Miami;Continuation;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Miami;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P1
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Finalization correct;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Post;Conc. Indep.;TO;P1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Re-Pk;Finalization wrong;P1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Hdoff;Conc. Indep.;Foul;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Conc. Indep.;Finalization correct;P1
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Hdoff;Hdoff F Post;Cont outra SCD;P1
+Miami;Continuation;Post;Conc. Indep.;Finalization correct;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;1on1;Conc. Indep.;TO;P1
+Miami;First Action;Post;Sem Conc.;Foul;P1
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;P1
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;None;Sem Conc.;TO;P1
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P1
+Spurs;First Action;Post;Sem Conc.;TO;P1
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;1on1;Conc. Indep.;TO;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Finalization wrong;P1
+Spurs;First Action;Screen;Sem Conc.;Finalization correct;P1
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;P1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Rc.Scr.E.MkOne;Cont outra SCD;P1
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P1
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Screen;Stg.Scr;Finalization wrong;P1
+Miami;Continuation;Pick;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Finalization wrong;P1
+Miami;First Action;None;Sem Conc.;Finalization correct;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Conc. Indep.;Foul;P1
+Spurs;Continuation;Hdoff;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;TO;P1
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P1
+Spurs;First Action;Pick;Sem Conc.;Finalization correct;P1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;P1
+Spurs;First Action;Pick;Sem Conc.;Finalization correct;P1
+Miami;First Action;Pick;Sem Conc.;TO;P1
+Spurs;First Action;Pick;Sem Conc.;Finalization foul;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Hdoff;Conc. Indep.;Foul;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P1
+Spurs;First Action;Pick;Sem Conc.;TO;P1
+Miami;Continuation;Post;Conc. Indep.;Finalization correct;P1
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Post;Conc. Indep.;TO;P1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P1
+Spurs;Continuation;Pick;Re-Pk;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization foul;P1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Post;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P1
+Spurs;First Action;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization correct;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P1
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P1
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;P1
+Miami;First Action;1on1;Sem Conc.;Finalization correct;P1
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Conc. Indep.;Finalization wrong;P1
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P1
+Miami;First Action;1on1;Sem Conc.;Finalization correct;P1
+Miami;First Action;1on1;Sem Conc.;Finalization correct;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Pick;Conc. Indep.;Finalization correct;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;P1
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Scr_Scrner;Finalization correct;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Stg.Scr;Finalization wrong;P1
+Miami;Continuation;Screen;Rc.Scr.E.MkOne;Cont outra SCD;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;1on1;Conc. Indep.;Foul;P1
+Miami;First Action;Pick;Sem Conc.;Foul;P1
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P1
+Spurs;Continuation;Cut;Conc. Indep.;TO;P1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P1
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;P1
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P1
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P1
+Miami;Continuation;None;Sem Conc.;TO;P1
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;Screen;Seq.Scr.Mk;Finalization wrong;P1
+Spurs;First Action;Pick;Sem Conc.;Finalization correct;P1
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;P1
+Miami;Continuation;1on1;Conc. Indep.;TO;P1
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P1
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P1
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Hdoff;Hdof_Scr.Rc;TO;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization foul;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;1on1;Conc. Indep.;Finalization foul;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P2
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Post;Conc. Indep.;Foul;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;TO;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Cut;Conc. Indep.;Finalization correct;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Screen;Scr_Scrner;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P2
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;P2
+Spurs;First Action;Pick;Sem Conc.;Finalization correct;P2
+Spurs;Continuation;Pick;Conc. Indep.;TO;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Sem Conc.;Finalization correct;P2
+Spurs;First Action;1on1;Sem Conc.;Finalization foul;P2
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Stg.Pk;Cont outra SCD;P2
+Spurs;Continuation;Pick;Re-Pk;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Dime in;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Post;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Dime in;Conc. Indep.;TO;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Spurs;Continuation;Screen;Stg.Scr;Foul;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P2
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Miami;Continuation;Pick;Conc. Indep.;TO;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Hdoff;Scr.E.Hdof;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P2
+Miami;First Action;Screen;Sem Conc.;Finalization correct;P2
+Spurs;First Action;Post;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P2
+Miami;First Action;1on1;Sem Conc.;TO;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;P2
+Miami;First Action;Screen;Sem Conc.;Finalization wrong;P2
+Spurs;First Action;Post;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Dime in;Conc. Indep.;TO;P2
+Miami;First Action;Post;Sem Conc.;Deflected;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Scr_Scrner;Cont outra SCD;P2
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Screen;Scr_Scrner;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;TO;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Scr_Scrner;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;TO;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Scr_Scrner;Finalization correct;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Miami;Continuation;Post;Conc. Indep.;TO;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Stg.Pk;Cont outra SCD;P2
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Screen;Sem Conc.;Finalization correct;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Cut;Sem Conc.;TO;P2
+Spurs;First Action;Cut;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization wrong;P2
+Spurs;Continuation;Pick;Conc. Indep.;Foul;P2
+Spurs;First Action;Spotup;Sem Conc.;Cont outra SCD;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Miami;Continuation;Pick;Scr.E.Pk_SamePl;Finalization correct;P2
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;1on1;Conc. Indep.;TO;P2
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Cut;Conc. Indep.;TO;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P2
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Cut;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Pick;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P2
+Spurs;Continuation;1on1;Conc. Indep.;Finalization foul;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Pick;Pk_Scr.Rc;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization foul;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Pick;Sem Conc.;Foul;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Stg.Pk;Foul;P2
+Spurs;First Action;Screen;Sem Conc.;Finalization correct;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;None;Sem Conc.;Foul;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization correct;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Dime in;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Cut;Conc. Indep.;Finalization correct;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Post;Sem Conc.;Finalization wrong;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Post;Conc. Indep.;Finalization correct;P2
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;P2
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Post;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;1on1;Sem Conc.;Finalization wrong;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P2
+Spurs;Continuation;Pick;Stg.Pk;Cont outra SCD;P2
+Spurs;Continuation;Post;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Cut;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P2
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P2
+Miami;Continuation;Pick;Stg.Pk;Finalization correct;P2
+Spurs;First Action;Screen;Sem Conc.;Finalization wrong;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P2
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P2
+Miami;Continuation;Pick;Re-Pk;Finalization foul;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Scr.E.Pk_SamePl;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Post;Sem Conc.;Finalization correct;P2
+Spurs;First Action;Post;Sem Conc.;Finalization foul;P2
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P2
+Spurs;First Action;Pick;Sem Conc.;Deflected;P2
+Miami;First Action;None;Sem Conc.;TO;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Pick;Re-Pk;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;TO;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P2
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Stg.Pk;Cont outra SCD;P2
+Spurs;Continuation;Pick;Pk_Scr.Rc;Cont outra SCD;P2
+Spurs;Continuation;1on1;Conc. Indep.;Foul;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P2
+Spurs;Continuation;Hdoff;Hdof_Scrner;Cont outra SCD;P2
+Spurs;Continuation;Pick;Pk_Hdof.Rc;Cont outra SCD;P2
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Cut;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Scr_Pker;Finalization correct;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Spurs;Continuation;Screen;Stg.Scr;Finalization wrong;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Pk.E.Scr;Cont outra SCD;P2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Screen;Conc. Indep.;Foul;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Pk_Scr.Rc;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P2
+Spurs;First Action;Screen;Sem Conc.;Finalization wrong;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;P2
+Spurs;First Action;Post;Sem Conc.;Finalization foul;P2
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P2
+Miami;First Action;Hdoff;Sem Conc.;TO;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Re-Pk;Cont outra SCD;P2
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Cut;Conc. Indep.;Finalization correct;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Finalization foul;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P2
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Rc.Scr.E.MkOne;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;P2
+Spurs;First Action;Pick;Sem Conc.;Foul;P2
+Miami;First Action;1on1;Sem Conc.;Finalization correct;P2
+Spurs;First Action;Pick;Sem Conc.;Finalization correct;P2
+Miami;First Action;Screen;Sem Conc.;Finalization foul;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;P2
+Spurs;First Action;1on1;Sem Conc.;Finalization wrong;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Stg.Scr;Finalization correct;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Stg.Scr;Foul;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Post;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Stg.Scr;TO;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Foul;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;1on1;Conc. Indep.;Foul;P2
+Miami;First Action;Pick;Sem Conc.;TO;P2
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Pk_Hdof.Rc;Cont outra SCD;P2
+Spurs;Continuation;Screen;Scr_Hdof.Mk;Cont outra SCD;P2
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Spurs;Continuation;Post;Conc. Indep.;Finalization foul;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P2
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;TO;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;1on1;Sem Conc.;Finalization foul;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Dime in;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;P2
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Conc. Indep.;Finalization correct;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;P2
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Re-Screen;Finalization wrong;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P2
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P2
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P2
+Spurs;Continuation;Pick;Conc. Indep.;TO;P2
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P2
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Finalization foul;P2
+Spurs;First Action;1on1;Sem Conc.;Finalization wrong;P2
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Post;Conc. Indep.;Finalization correct;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Conc. Indep.;TO;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Pick;Hdoff.E.Re-Pk;Finalization correct;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;1on1;Conc. Indep.;Foul;P3
+Miami;First Action;Hdoff;Sem Conc.;TO;P3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Post;Conc. Indep.;Finalization foul;P3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;P3
+Spurs;First Action;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Scr_Scrner;Finalization foul;P3
+Miami;First Action;None;Sem Conc.;TO;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization foul;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P3
+Spurs;Continuation;Cut;Conc. Indep.;Finalization correct;P3
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;P3
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P3
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Stg.Scr;Finalization foul;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Foul;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Pick;Sem Conc.;Foul;P3
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;P3
+Miami;First Action;1on1;Sem Conc.;Finalization correct;P3
+Miami;First Action;Cut;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Finalization foul;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Cut;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Re-Screen;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Foul;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;TO;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Scr_Scrner;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Finalization wrong;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization foul;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization foul;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Cut;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Finalization wrong;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Post;Conc. Indep.;TO;P3
+Miami;First Action;Post;Sem Conc.;Finalization wrong;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Stg.Pk;Cont outra SCD;P3
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Rc.Scr.E.MkOne;Cont outra SCD;P3
+Miami;Continuation;Post;Conc. Indep.;TO;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Pick;Scr.E.Pk;TO;P3
+Miami;First Action;Pick;Sem Conc.;Foul;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Post;Conc. Indep.;TO;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;TO;P3
+Miami;First Action;Pick;Sem Conc.;Deflected;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Screen;Scr_Scrner;Cont outra SCD;P3
+Miami;Continuation;Post;Conc. Indep.;Finalization correct;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;1on1;Conc. Indep.;Finalization foul;P3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Cut;Conc. Indep.;TO;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P3
+Spurs;Continuation;Pick;Scr.E.Pk_SamePl;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Rc.Pk.E.Mk.Hdof;Cont outra SCD;P3
+Spurs;Continuation;Pick;Pk_Hdof.Rc;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization wrong;P3
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Cut;Conc. Indep.;Finalization correct;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Hdoff;Sem Conc.;Deflected;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization foul;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Pk.E.Scr;Cont outra SCD;P3
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P3
+Miami;First Action;Post;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Post;Sem Conc.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Finalization correct;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Screen;Sem Conc.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;TO;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P3
+Spurs;Continuation;Pick;Stg.Pk;TO;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Dime in;Conc. Indep.;TO;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P3
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;P3
+Miami;Continuation;Screen;Conc. Indep.;Finalization correct;P3
+Spurs;First Action;Pick;Sem Conc.;Finalization foul;P3
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;P3
+Miami;First Action;Spotup;Sem Conc.;Finalization correct;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;P3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Cut;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Dime in;Conc. Indep.;Deflected;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Post;Conc. Indep.;Finalization wrong;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization foul;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;None;Sem Conc.;TO;P3
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;P3
+Spurs;First Action;1on1;Sem Conc.;Finalization foul;P3
+Miami;First Action;Post;Sem Conc.;Foul;P3
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P3
+Spurs;First Action;Post;Sem Conc.;TO;P3
+Miami;First Action;Pick;Sem Conc.;TO;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Re-Screen;Cont outra SCD;P3
+Spurs;Continuation;Pick;Scr.E.Pk_SamePl;Cont outra SCD;P3
+Spurs;Continuation;Dime in;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization correct;P3
+Miami;First Action;1on1;Sem Conc.;Foul;P3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Stg.Pk;Finalization wrong;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P3
+Spurs;Continuation;Post;Conc. Indep.;Deflected;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Post;Conc. Indep.;Finalization wrong;P3
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Deflected;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Seq.Scr.Mk;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Stg.Scr;Foul;P3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Post;Conc. Indep.;Finalization wrong;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization foul;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P3
+Spurs;Continuation;Cut;Conc. Indep.;Finalization wrong;P3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Scr.E.Pk;Deflected;P3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;1on1;Sem Conc.;Foul;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Deflected;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Seq.Scr.Mk;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Stg.Scr;Foul;P3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Post;Conc. Indep.;Finalization wrong;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization foul;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P3
+Spurs;Continuation;Cut;Conc. Indep.;Finalization wrong;P3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Scr.E.Pk;Deflected;P3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;1on1;Sem Conc.;Foul;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Finalization foul;P3
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Screen;Stg.Scr;Finalization correct;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Post;Conc. Indep.;Finalization wrong;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Scr_Scrner;Cont outra SCD;P3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Spotup;Conc. Indep.;TO;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Miami;Continuation;Post;Conc. Indep.;TO;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;None;Sem Conc.;Foul;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Spotup;Conc. Indep.;TO;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Scr_Hdof.Mk;Cont outra SCD;P3
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Rc.Pk.E.Mk.Hdof;Cont outra SCD;P3
+Spurs;Continuation;None;Sem Conc.;TO;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Pick;Sem Conc.;TO;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P3
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;P3
+Spurs;First Action;Post;Sem Conc.;Foul;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Foul;P3
+Miami;First Action;Screen;Sem Conc.;TO;P3
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;TO;P3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;Pick;Conc. Indep.;Foul;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Pick;Rc.Scr.E.Pk;TO;P3
+Miami;First Action;Post;Sem Conc.;Finalization correct;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Hdoff.E.Re-Pk;Cont outra SCD;P3
+Spurs;Continuation;1on1;Conc. Indep.;Finalization foul;P3
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization foul;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P3
+Spurs;Continuation;Pick;Stg.Pk;Finalization foul;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Scr.E.Pk;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Sem Conc.;Finalization wrong;P3
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;P3
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;1on1;Sem Conc.;Foul;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P3
+Miami;Continuation;Pick;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P3
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;P3
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P3
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P3
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P3
+Miami;Continuation;1on1;Conc. Indep.;Finalization foul;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P4
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Dime in;Conc. Indep.;TO;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P4
+Spurs;Continuation;Screen;Rc.Scr.E.MkOne;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Spurs;Continuation;Pick;Scr.E.Pk_SamePl;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Hdoff.E.Re-Pk;Foul;P4
+Spurs;First Action;Pick;Sem Conc.;Foul;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization wrong;P4
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;P4
+Spurs;First Action;1on1;Sem Conc.;Finalization correct;P4
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;P4
+Spurs;First Action;1on1;Sem Conc.;Finalization wrong;P4
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Cut;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P4
+Spurs;Continuation;Pick;Re-Pk;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P4
+Miami;Continuation;Pick;Re-Pk;Cont outra SCD;P4
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Post;Conc. Indep.;Finalization wrong;P4
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Re-Pk;Finalization wrong;P4
+Miami;First Action;Post;Sem Conc.;Foul;P4
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Finalization correct;P4
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P4
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P4
+Spurs;Continuation;Spotup;Conc. Indep.;TO;P4
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Post;Conc. Indep.;Finalization correct;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Pick;Conc. Indep.;Finalization foul;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Foul;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;P4
+Spurs;Continuation;Pick;Pk_Hdof.Rc;Cont outra SCD;P4
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;P4
+Miami;Continuation;1on1;Sem Conc.;Finalization correct;P4
+Spurs;First Action;Screen;Sem Conc.;Finalization wrong;P4
+Miami;First Action;Screen;Sem Conc.;Foul;P4
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P4
+Spurs;First Action;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P4
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Scr.E.Pk;Foul;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P4
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;P4
+Spurs;First Action;Pick;Sem Conc.;TO;P4
+Miami;First Action;Pick;Sem Conc.;TO;P4
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P4
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P4
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P4
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Dime in;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P4
+Miami;First Action;Screen;Sem Conc.;Finalization wrong;P4
+Spurs;First Action;Post;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Miami;Continuation;Dime in;Conc. Indep.;Finalization wrong;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P4
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Pick;Sem Conc.;Foul;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P4
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;P4
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Cut;Conc. Indep.;Finalization wrong;P4
+Spurs;First Action;Pick;Sem Conc.;Foul;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P4
+Spurs;Continuation;Post;Conc. Indep.;TO;P4
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Post;Conc. Indep.;Finalization foul;P4
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Finalization correct;P4
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P4
+Spurs;Continuation;Post;Conc. Indep.;Finalization wrong;P4
+Miami;First Action;None;Sem Conc.;TO;P4
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;P4
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Dime in;Conc. Indep.;TO;P4
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Rc.Hdof.E.Mk.One;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Rc.Hdof.E.Mk.One;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P4
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P4
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Stg.Pk;Cont outra SCD;P4
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Screen;Re-Screen;Cont outra SCD;P4
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P4
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Post;Conc. Indep.;Finalization foul;P4
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Post;Conc. Indep.;Finalization foul;P4
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Cut;Conc. Indep.;Foul;P4
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Scr_Scrner;Finalization wrong;P4
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Rc.Pk.E.Mk.Hdof;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P4
+Miami;Continuation;Dime in;Conc. Indep.;Finalization wrong;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Hdoff;Sem Conc.;TO;P4
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Pk_Hdof.Rc;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P4
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;P4
+Spurs;First Action;Pick;Sem Conc.;TO;P4
+Miami;First Action;1on1;Sem Conc.;Finalization correct;P4
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Post;Sem Conc.;Finalization wrong;P4
+Spurs;Continuation;Pick;Conc. Indep.;TO;P4
+Spurs;First Action;Post;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Hdoff F Post;Cont outra SCD;P4
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Post;Conc. Indep.;Foul;P4
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Scr_Hdof.Mk;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Spurs;Continuation;Post;Conc. Indep.;Deflected;P4
+Miami;First Action;Post;Sem Conc.;Finalization correct;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Scr.E.Pk;Finalization correct;P4
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P4
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P4
+Miami;Continuation;Screen;Scr_Pker;Finalization correct;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Re-Screen;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;P4
+Spurs;Continuation;Screen;Hdof.E.Scr;Cont outra SCD;P4
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Screen;Scr_Pker;Foul;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P4
+Miami;Continuation;Screen;Scr.E.Pk;Finalization wrong;P4
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;P4
+Spurs;First Action;Post;Sem Conc.;Finalization foul;P4
+Spurs;First Action;Post;Sem Conc.;Finalization wrong;P4
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;P4
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Dime in;Conc. Indep.;Foul;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P4
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;P4
+Miami;Continuation;Screen;Conc. Indep.;TO;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P4
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;P4
+Miami;First Action;1on1;Sem Conc.;Finalization foul;P4
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Stg.Pk;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P4
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P4
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Dime in;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Screen;Stg.Scr;Finalization wrong;P4
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Scr.E.Pk;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Hdof_Scr.Rc;Cont outra SCD;P4
+Spurs;First Action;Pick;Conc. Indep.;Foul;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;P4
+Spurs;Continuation;Pick;Pk_Hdof.Rc;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P4
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Post;Conc. Indep.;Finalization wrong;P4
+Spurs;First Action;Pick;Sem Conc.;Foul;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;1on1;Conc. Indep.;Finalization foul;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Miami;Continuation;Pick;Conc. Indep.;TO;P4
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;TO;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P4
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Pick;Conc. Indep.;TO;P4
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization foul;P4
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;P4
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Hdoff;Rc.Scr.E.Mk.Hdof;Cont outra SCD;P4
+Miami;Continuation;Pick;Pk_Hdof.Rc;Finalization correct;P4
+Spurs;First Action;Pick;Sem Conc.;Foul;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Hdoff.E.Re-Pk;Cont outra SCD;P4
+Spurs;Continuation;Cut;Conc. Indep.;Foul;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Screen;Sem Conc.;Finalization correct;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;TO;P4
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Pick;Pk_Hdof.Rc;Cont outra SCD;P4
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Pick;Hdoff.E.Re-Pk;Cont outra SCD;P4
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;P4
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P4
+Miami;Continuation;Pick;Stg.Pk;Cont outra SCD;P4
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Dime in;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Dime in;Conc. Indep.;Finalization correct;P4
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Foul;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Scr.E.Pk_SamePl;Cont outra SCD;P4
+Spurs;Continuation;Pick;Stg.Pk;Cont outra SCD;P4
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Dime in;Conc. Indep.;TO;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P4
+Miami;Continuation;Screen;Scr_Pker;Finalization foul;P4
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;TO;P4
+Miami;Continuation;Pick;Sem Conc.;Finalization correct;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Scr.E.Pk_SamePl;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Spotup;Sem Conc.;TO;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Scr.E.Pk_SamePl;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Post;Conc. Indep.;TO;P4
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Pick;Sem Conc.;Finalization foul;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P4
+Spurs;Continuation;Screen;Seq.Scr.Mk;Cont outra SCD;P4
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;TO;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;P4
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Cut;Conc. Indep.;Finalization wrong;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Stg.Scr;Finalization wrong;P4
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P4
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P4
+Spurs;First Action;Cut;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Pick;Pk_Hdof.Rc;TO;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;Pick;Stg.Pk;Cont outra SCD;P4
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Scr.E.Pk;Finalization wrong;P4
+Miami;First Action;1on1;Sem Conc.;Finalization correct;P4
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Cut;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P4
+Miami;Continuation;Pick;Stg.Pk;Foul;P4
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Miami;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;P4
+Miami;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P4
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P4
+Spurs;First Action;Screen;Sem Conc.;Finalization wrong;P4
+Miami;First Action;Screen;Sem Conc.;Finalization correct;P4
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Pick;Pk_Scr.Rc;Cont outra SCD;P4
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;P4
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P4
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Hdoff;Rc.Scr.E.Mk.Hdof;Foul;P4
+Spurs;First Action;Cut;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P4
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization wrong;P4
+Miami;First Action;Screen;Sem Conc.;Finalization correct;P4
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Dime in;Conc. Indep.;Foul;P4
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P4
+Spurs;Continuation;Cut;Conc. Indep.;Finalization foul;P4
+Miami;First Action;Hdoff;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;P5
+Spurs;First Action;None;Sem Conc.;TO;P5
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Pk_Hdof.Rc;Cont outra SCD;P5
+Spurs;Continuation;Pick;Hdoff.E.Re-Pk;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Rc.Pk.E.Mk.Hdof;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;P5
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Post;Conc. Indep.;Finalization foul;P5
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Rc.Scr.E.MkOne;Cont outra SCD;P5
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P5
+Spurs;Continuation;Pick;Scr.E.Pk_SamePl;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Dime in;Conc. Indep.;Cont outra SCD;P5
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Screen;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;TO;P5
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P5
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Foul;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Screen;Re-Screen;Cont outra SCD;P5
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Dime in;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Rc.Scr.E.Mk.Hdof;Cont outra SCD;P5
+Spurs;Continuation;None;Sem Conc.;Deflected;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Stg.Scr;Finalization wrong;P5
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Screen;Stg.Scr;TO;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Post;Conc. Indep.;Finalization foul;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P5
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Scr.E.Pk_SamePl;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;Finalization foul;P5
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;None;Sem Conc.;TO;P5
+Spurs;First Action;Hdoff;Sem Conc.;Finalization correct;P5
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;P5
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Screen;Rc.Scr.E.MkOne;Foul;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Scr.E.Pk;Finalization wrong;P5
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Pick;Conc. Indep.;Finalization correct;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Scr.E.Pk_SamePl;Foul;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;Post;Sem Conc.;Foul;P5
+Spurs;First Action;1on1;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Dime in;Conc. Indep.;Finalization correct;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Post;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Stg.Pk;Cont outra SCD;P5
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Finalization foul;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;Finalization foul;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Conc. Indep.;Finalization correct;P5
+Miami;First Action;Pick;Sem Conc.;TO;P5
+Spurs;First Action;1on1;Sem Conc.;Finalization correct;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Screen;Stg.Scr;Finalization correct;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P5
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;Spotup;Sem Conc.;Finalization wrong;P5
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Stg.Pk;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;TO;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P5
+Spurs;Continuation;Screen;Conc. Indep.;TO;P5
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Foul;P5
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Scr_Hdof.Mk;Cont outra SCD;P5
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P5
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P5
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P5
+Miami;Continuation;Post;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Conc. Indep.;Finalization foul;P5
+Spurs;First Action;Post;Sem Conc.;Finalization wrong;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Post;Sem Conc.;Finalization correct;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Screen;Stg.Scr;TO;P5
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Post;Conc. Indep.;Finalization foul;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Screen;Scr_Scrner;Cont outra SCD;P5
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Pick;Re-Pk;Finalization wrong;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Screen;Conc. Indep.;Deflected;P5
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Screen;Rc.Scr.E.MkOne;Cont outra SCD;P5
+Miami;Continuation;Post;Conc. Indep.;Deflected;P5
+Spurs;First Action;1on1;Sem Conc.;Finalization correct;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;P5
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P5
+Miami;Continuation;1on1;Conc. Indep.;TO;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization foul;P5
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;1on1;Sem Conc.;Finalization correct;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Finalization correct;P5
+Miami;First Action;1on1;Sem Conc.;Foul;P5
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;P5
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Screen;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P5
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Finalization correct;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Re-Pk;Finalization wrong;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P5
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Re-Pk;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Rc.Pk.E.Mk.Hdof;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Rc.Hdof.E.Mk.One;TO;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Screen;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Foul;P5
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;Screen;Sem Conc.;Finalization wrong;P5
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Stg.Pk;TO;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;P5
+Spurs;Continuation;Screen;Scr_Pker;Cont outra SCD;P5
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P5
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;P5
+Miami;Continuation;1on1;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;TO;P5
+Miami;First Action;Screen;Sem Conc.;Foul;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Post;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization correct;P5
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Cut;Conc. Indep.;Finalization wrong;P5
+Spurs;Continuation;Post;Conc. Indep.;Finalization foul;P5
+Miami;First Action;Screen;Sem Conc.;TO;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Scr_Scrner;Cont outra SCD;P5
+Spurs;Continuation;Pick;Scr.E.Pk_SamePl;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P5
+Miami;First Action;Screen;Sem Conc.;Foul;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Post;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P5
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P5
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Finalization wrong;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P5
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;P5
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Re-Pk;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P5
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Conc. Indep.;Finalization foul;P5
+Spurs;First Action;1on1;Sem Conc.;Finalization correct;P5
+Miami;First Action;Spotup;Sem Conc.;TO;P5
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Post;Conc. Indep.;TO;P5
+Miami;First Action;Pick;Sem Conc.;Finalization foul;P5
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization correct;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Post;Conc. Indep.;Finalization correct;P5
+Miami;Continuation;1on1;Sem Conc.;Finalization correct;P5
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;P5
+Miami;First Action;1on1;Sem Conc.;Finalization foul;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P5
+Miami;Continuation;Pick;Stg.Pk;Cont outra SCD;P5
+Miami;Continuation;Hdoff;Conc. Indep.;TO;P5
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Rc.Hdof.E.Mk.One;Cont outra SCD;P5
+Spurs;Continuation;Pick;Pk_Hdof.Rc;Cont outra SCD;P5
+Spurs;Continuation;Pick;Stg.Pk;Cont outra SCD;P5
+Spurs;Continuation;Pick;Rc.Hdof.E.Mk.One;Cont outra SCD;P5
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Cut;Conc. Indep.;Foul;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;TO;P5
+Miami;First Action;Post;Sem Conc.;Finalization foul;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;Finalization foul;P5
+Miami;First Action;Pick;Sem Conc.;Foul;P5
+Miami;First Action;Post;Sem Conc.;Finalization correct;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Foul;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Conc. Indep.;Finalization foul;P5
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Pick;Sem Conc.;Finalization correct;P5
+Miami;First Action;None;Sem Conc.;TO;P5
+Spurs;First Action;Cut;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Stg.Scr;Cont outra SCD;P5
+Spurs;First Action;Pick;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;Screen;Sem Conc.;Finalization wrong;P5
+Miami;First Action;1on1;Sem Conc.;Finalization wrong;P5
+Spurs;First Action;Screen;Sem Conc.;Finalization correct;P5
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Finalization correct;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Finalization correct;P5
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P5
+Spurs;Continuation;Post;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;P5
+Miami;First Action;Pick;Sem Conc.;Finalization wrong;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Post;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P5
+Spurs;Continuation;Pick;Stg.Pk;Cont outra SCD;P5
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;TO;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Pick;Rc.Scr.E.Pk;Cont outra SCD;P5
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;P5
+Miami;Continuation;1on1;Conc. Indep.;Finalization correct;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization correct;P5
+Miami;First Action;Post;Sem Conc.;Finalization correct;P5
+Spurs;First Action;Hdoff;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;1on1;Conc. Indep.;Finalization correct;P5
+Miami;First Action;1on1;Sem Conc.;Finalization correct;P5
+Spurs;First Action;Screen;Sem Conc.;Finalization correct;P5
+Miami;First Action;1on1;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Pick;Sem Conc.;Finalization wrong;P5
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;1on1;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Screen;Scr_Pker;Cont outra SCD;P5
+Spurs;Continuation;Pick;Scr.E.Pk;Cont outra SCD;P5
+Spurs;Continuation;Spotup;Conc. Indep.;Finalization wrong;P5
+Miami;First Action;Pick;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Screen;Scr_Pker;Cont outra SCD;P5
+Miami;Continuation;Pick;Scr.E.Pk;Foul;P5
+Spurs;First Action;None;Sem Conc.;Foul;P5
+Miami;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Miami;Continuation;Screen;Rc.Scr.E.MkOne;Cont outra SCD;P5
+Miami;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Screen;Conc. Indep.;Cont outra SCD;P5
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P5
+Miami;Continuation;Screen;Stg.Scr;Cont outra SCD;P5
+Miami;Continuation;Post;Conc. Indep.;Finalization foul;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Hdof_Scr.Rc;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Rc.Hdof.E.Mk.One;Finalization wrong;P5
+Miami;First Action;Pick;Sem Conc.;Finalization correct;P5
+Spurs;First Action;Screen;Sem Conc.;Cont outra SCD;P5
+Spurs;Continuation;Pick;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Cut;Conc. Indep.;Cont outra SCD;P5
+Spurs;Continuation;Hdoff;Conc. Indep.;Finalization wrong;P5
+Spurs;First Action;1on1;Sem Conc.;Finalization wrong;P5
